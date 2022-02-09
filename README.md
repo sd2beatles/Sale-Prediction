@@ -1,6 +1,5 @@
 # Sale-Prediction (Ranked 4th)
 
-<center><img src="https://user-images.githubusercontent.com/53164959/103773047-d0393700-506d-11eb-8b74-e1e158c55def.png" width="500" height="300"></center>
 
 ## :globe_with_meridians: Introduction 
 
