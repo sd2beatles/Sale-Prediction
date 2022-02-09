@@ -24,7 +24,8 @@ In this competition I was working with a challenging time-series dataset consist
   - Connecting to a DB instance running the MySQL databse engine
 
 - Part 3: Modeling
-  Light GBM has shown the good performance. 
+  
+  -Light GBM has demonstrated the best performance. 
   
 
 
