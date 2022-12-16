@@ -7,7 +7,6 @@
 
 In this competition I was working with a challenging time-series dataset consisting of daily sales data, kindly provided by stores in Koarea. To predict total sales for every product and store in the next month. By solving this competition I was able to apply and enhance your data science skills. I was ranked 4th in the competition. 
 
-### According to the discolsure agreement, a full discolue of contents is forbidden. Therefore, beacuse I have excluded all the private infomration on the clients,the dimension of transformed data is much smaller than that of the original data
 
 
 
